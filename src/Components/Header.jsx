@@ -1,4 +1,4 @@
-import SearchBar from "./Searchbar";
+import SearchBar from "./SearchBar";
 import SortDropdown from "./SortDropdown";
 
 function Header({ searchTerm, onSearchChange, sortKey, sortOptions, onSortChange }) {
