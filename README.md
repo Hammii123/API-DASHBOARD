@@ -1,4 +1,5 @@
-api-dashboard-957-p9gh0fmeq-hammad-ur-rehman.vercel.app
+[![Deploy Status](https://api-dashboard-957-nu.vercel.app/)](https://api-dashboard-957-nu.vercel.app/)
+
 
 # React + Vite
 
