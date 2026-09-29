@@ -1,3 +1,8 @@
+[![Deploy Status](https://api-dashboard-957-nu.vercel.app/)](https://api-dashboard-957-nu.vercel.app/)
+
+**[Live Demo](https://api-dashboard-957-nu.vercel.app/)**
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
